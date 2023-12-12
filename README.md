@@ -1,4 +1,4 @@
-# storee
+# Projeto final "store"
 Projeto final da disciplina de tecnologia em desenvolvimento de sistemas
 
 Introdução: No contexto de uma sociedade cada vez mais conectada, surge a oportunidade de aprimorar a experiência de compra e venda por meio da tecnologia. Nesse sentido, apresentamos a proposta de desenvolvimento de uma Plataforma de E-commerce como projeto final da disciplina de Tecnologia em Desenvolvimento de Software.
