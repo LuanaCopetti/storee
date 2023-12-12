@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Store-master",
+    "\\Store-master\\API",
+    "\\Store-master\\Infrastructure",
+    "\\Store-master\\Web",
+    "\\Store-master\\Web\\Controllers"
+  ],
+  "SelectedNode": "\\Store-master\\Web\\Controllers\\GameController.cs",
+  "PreviewInSolutionExplorer": false
+}
